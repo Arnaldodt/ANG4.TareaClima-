@@ -1,0 +1,15 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+a{
+    color: green;
+}
+a:hover{
+    color: red;
+}
+.active{
+    color: red;
+}
